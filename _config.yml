@@ -12,7 +12,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: 전정찬
+username: Jeonjeongchan
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Jekyll Theme
@@ -21,7 +21,7 @@ email: junjungchan@naver.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
+github_username: jeonjeongchan
 codepen_username: exampleUser
 dev_username: exampleUser
 linkedin_username: exampleUser
